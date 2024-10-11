@@ -1,5 +1,4 @@
 Probably a useless repository, but let it be, I'll duplicate all the domains again:
-
 discord-attachments-uploads-prd.storage.googleapis.com
 dis.gd
 discord.co
@@ -39,7 +38,6 @@ www.discord.app
 РУС/RUS:
 
 Наверное бесполезный репозиторий, но пусть будет, еще раз продублирую все домены:
-
 discord-attachments-uploads-prd.storage.googleapis.com
 dis.gd
 discord.co
